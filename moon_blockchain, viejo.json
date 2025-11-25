@@ -1,0 +1,154 @@
+{
+  "cadena": [
+    {
+      "indice": 0,
+      "transacciones": [
+        {
+          "tipo": "token_info",
+          "data": {
+            "nombre": "MOON",
+            "simbolo": "MOON",
+            "supply_maximo": 21000000,
+            "decimales": 8,
+            "creador": "Joseph P",
+            "lanzamiento": "24 de Noviembre 2025",
+            "mensaje_genesis": "MOON: 21 millones para siempre. Creada por Joseph"
+          }
+        },
+        {
+          "tipo": "premine",
+          "to": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "cantidad": 5000000
+        }
+      ],
+      "timestamp": 1764025987.7997298,
+      "hash_anterior": "0",
+      "nonce": 124387
+    },
+    {
+      "indice": 1,
+      "transacciones": [
+        {
+          "tipo": "reward",
+          "to": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "cantidad": 50
+        },
+        {
+          "tipo": "mensaje",
+          "texto": "Guardado autom\u00e1tico activado para siempre"
+        }
+      ],
+      "timestamp": 1764025991.4368,
+      "hash_anterior": "00001157f82b7eb8dd88e484addf3252d44e8008189dba40f44379bab11cd01c",
+      "nonce": 123733
+    },
+    {
+      "indice": 2,
+      "transacciones": [
+        {
+          "tipo": "reward",
+          "to": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "cantidad": 50
+        }
+      ],
+      "timestamp": 1764025994.4441953,
+      "hash_anterior": "0000b0f029ade9f99b96438924f992ab0863e4882b66a34fbd2c3e46198ca495",
+      "nonce": 65755
+    },
+    {
+      "indice": 3,
+      "transacciones": [
+        {
+          "tipo": "reward",
+          "to": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "cantidad": 50
+        },
+        {
+          "tipo": "mensaje",
+          "texto": "Guardado autom\u00e1tico activado para siempre"
+        }
+      ],
+      "timestamp": 1764026259.2992764,
+      "hash_anterior": "00005e62c83e48ad45c2a171264772e3c904979198470513068426817d7d0286",
+      "nonce": 73997
+    },
+    {
+      "indice": 4,
+      "transacciones": [
+        {
+          "tipo": "reward",
+          "to": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "cantidad": 50
+        }
+      ],
+      "timestamp": 1764026260.3834274,
+      "hash_anterior": "00007a71954284749e877ead6d0e951009d42e91e0178c1cc9cd384f1a5ccdb0",
+      "nonce": 33667
+    },
+    {
+      "indice": 5,
+      "transacciones": [
+        {
+          "tipo": "reward",
+          "to": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "cantidad": 50
+        },
+        {
+          "tipo": "transfer",
+          "de": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "a": "M6tb21QEjrCZqqgrmDordriiapu9hw7BLV",
+          "cantidad": 1000,
+          "firma": "3eb445cf24824ac20a092e8c5b000f3bbfde37e05ef85db8dd806e11819fc122379fd7d3273b875f2a8f5894ab031dcb92ac58913b1f43a2cc4510a9b467c1ca"
+        }
+      ],
+      "timestamp": 1764028085.370862,
+      "hash_anterior": "0000752984afaa8968829f94ee1d5cafb8a9fea45dfb078bbd283db3cf966c60",
+      "nonce": 56444
+    },
+    {
+      "indice": 6,
+      "transacciones": [
+        {
+          "tipo": "reward",
+          "to": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "cantidad": 50
+        },
+        {
+          "tipo": "transfer",
+          "de": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "a": "M6ogFJXLWotdYcxz19sW5oLV8XTK2Mr6pb",
+          "cantidad": 1000,
+          "firma": "029d0e3283bb2de7a3008ccfb9349c74396ff8b59a5ce05fe91c88bfa93ed90845d575262b1505236378844fe21e149956a4018a2fc2bfd07d598ddb550805a2"
+        }
+      ],
+      "timestamp": 1764028297.9838908,
+      "hash_anterior": "0000a938de412b8c08a8f138ecb82133a3b8ef9b518a1ef2f80fc513d8c324da",
+      "nonce": 90927
+    },
+    {
+      "indice": 7,
+      "transacciones": [
+        {
+          "tipo": "reward",
+          "to": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "cantidad": 50
+        },
+        {
+          "tipo": "transfer",
+          "de": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa",
+          "a": "M7MS4iAHFtzpqYTyvKxeLwFCUpU7",
+          "cantidad": 1000,
+          "firma": "53d5ffb84f9d08e22d52fa4b4ef2d1eb3a54c34fe2e6014079085e5ea30edba1b0d85695d86c57f576d34724455df013f8c2ea266676d1dd8ab746c6c73f3eb5"
+        }
+      ],
+      "timestamp": 1764028459.4557886,
+      "hash_anterior": "0000a0388f368cfbf9d34a9972a882eb80ed4a7b46418347763aa8cf3b566088",
+      "nonce": 8210
+    }
+  ],
+  "balances": {
+    "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa": 5000350
+  },
+  "total_minado": 5000350,
+  "creador_direccion": "MAnQbX4pTH2CLk3Zn7Qj5sdMNThfxrwDfa"
+}

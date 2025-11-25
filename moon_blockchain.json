@@ -1,0 +1,46 @@
+{
+  "cadena": [
+    {
+      "indice": 0,
+      "transacciones": [
+        {
+          "tipo": "premine",
+          "to": "M2aKpSqBRbwKt3PZMuYLYEtByyzbJ",
+          "cantidad": 5000000
+        }
+      ],
+      "timestamp": 1764029003.3605986,
+      "hash_anterior": "0",
+      "nonce": 51218,
+      "hash": "00007f57e3dd280e625f052d5a18eeb2bc09e7fc28ff3f8dc9fdd58ca41afa9f"
+    },
+    {
+      "indice": 1,
+      "transacciones": [
+        {
+          "tipo": "reward",
+          "to": "M2aKpSqBRbwKt3PZMuYLYEtByyzbJ",
+          "cantidad": 50
+        },
+        {
+          "tipo": "transfer",
+          "de": "M2aKpSqBRbwKt3PZMuYLYEtByyzbJ",
+          "a": "M44jkSh9Nq2EJ45EQ3b76RjnMkspQ",
+          "cantidad": 1000,
+          "firma": "3b6ca2d4111aabd5b417a3f9a8bcf14af3e9ba95c9e2f2798003643f9a43c5ed7a4262874bb594118ac236bf63982593e80b4c071d3c6face540b6b08324d81f"
+        }
+      ],
+      "timestamp": 1764029014.4549675,
+      "hash_anterior": "00007f57e3dd280e625f052d5a18eeb2bc09e7fc28ff3f8dc9fdd58ca41afa9f",
+      "nonce": 46494,
+      "hash": "00007e03a9045391956d2fd8c6be862015988538461d62b5caa2b3f3b57f7b01"
+    }
+  ],
+  "balances": {
+    "M2aKpSqBRbwKt3PZMuYLYEtByyzbJ": 4999050,
+    "M44jkSh9Nq2EJ45EQ3b76RjnMkspQ": 1000
+  },
+  "direccion": "M2aKpSqBRbwKt3PZMuYLYEtByyzbJ",
+  "hash_contrase\u00f1a": "bc00ac4c9b44d150c876e20dc191b37db6cf2f47116d3c979a3113167e5fd7c1",
+  "private_key": "40e14560d9172cae649fb074a4bff60fc1d8b14989c9936893c5c9c88701fc36"
+}
